@@ -4,8 +4,8 @@
 
 A list of representative point cloud normal estimation methods outlined in the survey:
 
-> **A Survey of Point Cloud Normal Estimation: Methods, Taxonomy, and Benchmarking**
-> Weijia Wang, Shuai Tong, Jiaxin Liu, Yuan-Gen Wang, and Xiaochun Cao - *Computational Visual Media*
+> **A Survey of Point Cloud Normal Estimation: Methods, Taxonomy, and Benchmarking**,
+> by Weijia Wang, Shuai Tong, Jiaxin Liu, Yuan-Gen Wang, and Xiaochun Cao - in *Computational Visual Media*
 
 For any inquiries or suggestions, please contact the repository maintainers: 
 * Weijia Wang (wwj@gzhu.edu.cn)
