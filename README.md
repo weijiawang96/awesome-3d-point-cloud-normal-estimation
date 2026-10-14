@@ -13,7 +13,7 @@ For any inquiries or suggestions, please contact the repository maintainers:
 * Xiemou Li (lixiemou@e.gzhu.edu.cn)
 
 ## Table of Contents<!-- omit in toc -->
-------
+
 - [Conventional Methods](#conventional-methods)
   - [PCA-based Methods](#pca-based-methods)
     - [Basic Plane Fitting](#basic-plane-fitting)
@@ -57,7 +57,7 @@ For any inquiries or suggestions, please contact the repository maintainers:
 
 
 ## Conventional Methods
------
+
 ### PCA-based Methods
 
 #### Basic Plane Fitting
@@ -129,7 +129,7 @@ For any inquiries or suggestions, please contact the repository maintainers:
 - **Depth-Buffer-based LiDAR Model** -- Kirchengast and Watzenig, "A Depth-Buffer-Based Lidar Model With Surface Normal Estimation," *IEEE TITS*, 2024. 📄 [Paper](https://doi.org/10.1109/TITS.2024.3371531)
 
 ## Learning-based Methods
------
+
 ### Regression-based Methods
 
 #### CNN-based Regression
@@ -231,7 +231,7 @@ For any inquiries or suggestions, please contact the repository maintainers:
 
 
 <!-- ## Normal Orientation
------
+
 
 - **MST** -- Hoppe et al., "Surface Reconstruction from Unorganized Points," *SIGGRAPH*, 1992. 📄 [Paper](https://doi.org/10.1145/142920.134011) / 🖥️ [Code](https://github.com/Svengali/Mesh-processing-library-hoppe)
 - Mullen et al., "Signing the Unsigned: Robust Surface Reconstruction from Raw Pointsets," *Computer Graphics Forum*, 2010. 📄 [Paper](https://doi.org/10.1111/j.1467-8659.2010.01782.x)999999
@@ -241,7 +241,7 @@ For any inquiries or suggestions, please contact the repository maintainers:
 - **ODP** (Hoppe et al.) - *Surface Reconstruction from Unorganized Points*. SIGGRAPH 1992. 📄 [Paper](https://doi.org/10.1145/142920.134011)222222 -->
 
 <!-- ## Datasets
------
+
 ### Synthetic Datasets
 
 - **ModelNet40** (2015) - Synthetic mesh benchmark commonly used in point cloud learning. [Dataset](https://modelnet.cs.princeton.edu/)
@@ -268,7 +268,7 @@ For any inquiries or suggestions, please contact the repository maintainers:
 - **Waymo Open Dataset** (2020) - Large-scale LiDAR data for autonomous driving. [Dataset](https://waymo.com/open/) -->
 
 <!-- ## Benchmarks and Evaluation
------
+
 ### Metrics
 
 - **RMSE** - Root mean squared angular error between estimated and ground-truth normals.
@@ -285,7 +285,7 @@ For any inquiries or suggestions, please contact the repository maintainers:
 - **Computational Requirements** - Comparison of inference time, model size, input patch size, and output normals per patch. -->
 
 <!-- ## Applications
------
+
 ### Denoising
 
 - **Low Rank** (Lu et al.) - *Low Rank Matrix Approximation for 3D Geometry Filtering*. TVCG 2022. [Paper](https://doi.org/10.1109/TVCG.2020.3026785)
