@@ -42,18 +42,18 @@ For any inquiries or suggestions, please contact the repository maintainers:
     - [Hybrid](#hybrid)
     - [Gradient-based](#gradient-based)
 <!-- - [Normal Orientation](#normal-orientation) -->
-- [Datasets](#datasets)
-  - [Synthetic Datasets](#synthetic-datasets)
-  - [Real-world and Mixed Datasets](#real-world-and-mixed-datasets)
-- [Benchmarks and Evaluation](#benchmarks-and-evaluation)
-  - [Metrics](#metrics)
-  - [Evaluation Protocols](#evaluation-protocols)
-- [Applications](#applications)
-  - [Denoising](#denoising)
-  - [Surface Reconstruction](#surface-reconstruction)
-  - [Registration](#registration)
-- [Future Directions](#future-directions)
-- [Related Resources](#related-resources)
+<!-- - [Datasets](#datasets) -->
+  <!-- - [Synthetic Datasets](#synthetic-datasets) -->
+  <!-- - [Real-world and Mixed Datasets](#real-world-and-mixed-datasets) -->
+<!-- - [Benchmarks and Evaluation](#benchmarks-and-evaluation) -->
+  <!-- - [Metrics](#metrics) -->
+  <!-- - [Evaluation Protocols](#evaluation-protocols) -->
+<!-- - [Applications](#applications) -->
+  <!-- - [Denoising](#denoising) -->
+  <!-- - [Surface Reconstruction](#surface-reconstruction) -->
+  <!-- - [Registration](#registration) -->
+<!-- - [Future Directions](#future-directions) -->
+<!-- - [Related Resources](#related-resources) -->
 
 
 ## Conventional Methods
